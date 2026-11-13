@@ -1,0 +1,3 @@
+families: [latin, cyrillic, cjk]
+encoders: [enc-base, enc-large]
+top_k: 5
